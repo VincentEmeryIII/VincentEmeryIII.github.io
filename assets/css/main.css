@@ -32,9 +32,6 @@ footer, header, hgroup, menu, nav, section {
 
 
 
-	.experience {
-		margin: ;
-	}
 	
 	.date {
 		font-size: .8em;
@@ -56,9 +53,12 @@ footer, header, hgroup, menu, nav, section {
 
 	.subbullet {
 		margin-top: 0px;
-		margin-bottom:: 0px;
+		margin-bottom: -5px;
 		margin-left: 20px;
+		padding-bottom: -5px;
+		padding-top: -5px;
 		font-size: .9em;
+		list-style-type: circle;
 	}
 	
 	.organization {
